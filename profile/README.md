@@ -27,8 +27,8 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :file_folder: repositories </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Frontend: https://github.com/your-username/curatoon-frontend </div> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Backend: https://github.com/your-username/curatoon-backend </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Frontend: https://github.com/k-webtoon/k-webtoon-frontend </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Backend: https://github.com/k-webtoon/k-webtoon-backend </div> 
 </div> <br>
 
 <div style="text-align: left;">
