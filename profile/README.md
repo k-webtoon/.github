@@ -17,7 +17,7 @@
   <!-- 메인 기능 페이지 -->
   <h3 style="color: #0969da; margin-top: 30px;">🏠 메인 페이지</h3>
   <div style="margin-bottom: 30px;">
-    <h4 style="color: #424a53;">로그인 후 메인</h4>
+    <h4 style="color: #424a53;">로그인 전 메인</h4>
     <div style="display: flex; justify-content: space-between; gap: 10px;">
       <img src="https://github.com/user-attachments/assets/a20aa4ce-01d3-4876-865b-129483569c8e" width="48%" alt="메인페이지_비로그인">
       <img src="https://github.com/user-attachments/assets/703df8a0-eee4-4f24-928e-af3920f4b337" width="48%" alt="웹툰메인페이지_비로그인">
@@ -39,7 +39,6 @@
       <h4>🌈 프론트엔드</h4>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite">
     </div>
     <!-- UI 라이브러리 -->
     <div>
@@ -55,5 +54,39 @@
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white" alt="React Router">
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white" alt="JWT">
     </div>
+    <!-- 백엔드 기술 스택 -->
+    <div>
+      <h4>🛠️ 백엔드</h4>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" alt="Spring Security">
+    </div>
+    <!-- 데이터베이스 & ORM -->
+    <div>
+      <h4>💾 데이터베이스 & ORM</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Data JPA">
+    </div>
+    <!-- 인증 & API 문서화 -->
+    <div>
+      <h4>🔐 인증 & API 문서화</h4>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white" alt="JWT">
+      <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=Auth0&logoColor=white" alt="OAuth2">
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" alt="Swagger">
+    </div>
+    <!-- 외부 연동 & 빌드 도구 -->
+    <div>
+      <h4>🔄 외부 연동 & 빌드 도구</h4>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
+      <img src="https://img.shields.io/badge/RestTemplate-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="RestTemplate">
+    </div>
+    <!-- AI 서버 -->
+    <div>
+      <h4>🧠 AI 서버</h4>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
+    </div>
+
   </div>
 </div> <br>
